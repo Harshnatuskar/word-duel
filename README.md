@@ -1,2 +1,2 @@
 # word-duel
-an app for having online typing duels
+a web app for having online typing duels
